@@ -16,12 +16,7 @@ features with top 5 being the most important.
 • Hague supporters are split into two categories
         1. Supporters who have good opinion and vote for him
         2. Supporters who have good opinion and didn’t vote for him.
-The second case has to be analysed further by the party to find the reason for those
-behaviours.
-• Based on the predictions, Blair has the upper hand in the election. It is predicted that the
-Labour party might win with huge margins.
-• Based on the Business Problem, whether to predict which party votes accurately, the
-model can be used for that problem statement with the respective Precision/Recall
-Measures.
-• As a Final Model, RF and LDAB will the best ones to make predictions. With AUC also into
-consideration, LDAB can be used for better predictions.
+• The second case has to be analysed further by the party to find the reason for those behaviours.
+• Based on the predictions, Blair has the upper hand in the election. It is predicted that the Labour party might win with huge margins.
+• Based on the Business Problem, whether to predict which party votes accurately, the model can be used for that problem statement with the respective Precision/Recall Measures.
+• As a Final Model, RF and LDAB will the best ones to make predictions. With AUC also into consideration, LDAB can be used for better predictions.
